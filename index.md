@@ -1,15 +1,9 @@
 ## Ryt资源站
 
-You can use the [editor on GitHub](https://github.com/RytJTR266/16063.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎访问RytJTR266的资源站主站，下面是一点微不足道的介绍信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### 下载站地址
+https://down.rytjtr266.tk/
 
 # Header 1
 ## Header 2
@@ -28,11 +22,12 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### 本网站基于Ryt技术构建
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RytJTR266/16063.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 关于我
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bilibili:https://space.bilibili.com/9722222
+
+
 <a href="https://icp.gov.moe/?keyword=20226063" target="_blank">萌ICP备20226063号</a>
