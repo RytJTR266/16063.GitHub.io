@@ -27,7 +27,7 @@
 
 
 
-- 1 推荐链接：[点击]（https://fuyu.ml）
+- 1 推荐链接：[点击]（https://fuyu.ml)
 - 2
 
 1. Numbered
