@@ -3,7 +3,7 @@
 欢迎访问RytJTR266的资源站主站，下面是一点微不足道的介绍信息
 
 ### 下载站地址
-https://down.rytjtr266.tk/
+[https://down.rytjtr266.tk/]
 
 # Header 1
 ## Header 2
@@ -27,7 +27,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### 关于我
 
-Bilibili:https://space.bilibili.com/9722222
+Bilibili:(https://space.bilibili.com/9722222)
 
 
 <a href="https://icp.gov.moe/?keyword=20226063" target="_blank">萌ICP备20226063号</a>
