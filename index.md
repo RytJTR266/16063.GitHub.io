@@ -58,7 +58,6 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="www.fuibafuyu.top" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"www.fuibafuyu.top","name":"www.fuibafuyu.top","url":"http://www.fuibafuyu.top/"}</script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#157878">
@@ -88,7 +87,7 @@
 
 
 <div align="center">
-本站已稳定运行：<span id="htmer_time"></span>
+本站已废，有事找我：<span id="htmer_time"></span>
 </div>
 </footer>
 </main>
