@@ -3,7 +3,7 @@
 欢迎访问RytJTR266的资源站主站，下面是一点微不足道的介绍信息
 
 ## 下载站地址
-[https://down.rytjtr266.tk/](https://down.rytjtr266.tk/)
+[down.rytjtr266.tk](https://down.rytjtr266.tk)
 
 # 概述
 
@@ -27,7 +27,7 @@
 
 
 
-- 1 推荐链接：[点击]（https://fuyu.ml)
+- 1 推荐链接：[点击](https://fuyu.ml)
 - 2
 
 1. Numbered
