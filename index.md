@@ -28,7 +28,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>冬優ちゃんの小窝</title>
+<title>？？？？？？？？？？？？</title>
 <link rel="icon" sizes="48x48" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/icon-48.png">
 <link rel="icon" sizes="96x96" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/icon-96.png">
 <link rel="icon" sizes="144x144" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/icon-144.png">
@@ -47,7 +47,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon.ico">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 
-<title>www.fuibafuyu.top</title>
+<title>down.rytjtr266.tk</title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="www.fuibafuyu.top" />
 <meta property="og:locale" content="en_US" />
