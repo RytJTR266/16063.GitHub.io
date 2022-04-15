@@ -46,5 +46,6 @@
 
 Bilibili:[御坂16063号](https://space.bilibili.com/9722222)
 
-
+<head>
+<script src="https://cdn.jsdelivr.net/gh/rytjtr266/live2d-widget@latest/autoload.js"></script>
 <a href="https://icp.gov.moe/?keyword=20226063" target="_blank">萌ICP备20226063号</a>
