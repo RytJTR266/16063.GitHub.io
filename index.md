@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 # Ryt资源站
 <h3 id="jinrishici-sentence"></h3>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
