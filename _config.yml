@@ -1,7 +1,5 @@
 title: Ryt资源站
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 github:
-is_project_page: false
-header {
-display: none;
-}
+    is_project_page: false
+
