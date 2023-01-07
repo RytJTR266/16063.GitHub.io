@@ -1,14 +1,14 @@
-# Ryt资源站
+# 欢迎访问MisakaNET.！
 <h3 id="jinrishici-sentence"></h3>
 <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 
-欢迎访问RytJTR266的资源站主站，下面是一点微不足道的介绍信息
+欢迎访问MisakaNET，下面是一点微不足道的介绍信息
 
 ## 下载站地址
 [down.rytjtr266.tk](https://down.rytjtr266.tk)
 
-# 概述
-本站基于github构建。
+# 关于MisakaNET. ...
+尚未更新。
 
 
 
@@ -43,7 +43,7 @@
 ```
 更新中...
 
-### 本网站基于Ryt技术构建
+### 本网站基于Ryt技术构建 MisakaNET. 2023
 
 
 # 关于我
